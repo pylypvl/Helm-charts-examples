@@ -1,0 +1,7 @@
+# Dev Override Values for my Helm Chart
+
+container:
+  image: vladpylypenko/custom-nginx:latest
+
+replicaCount: 4
+
